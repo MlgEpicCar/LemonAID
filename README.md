@@ -1,3 +1,3 @@
 # LemonAID
 
-what is UP chat
+this probably doesnt dox me anymore!
