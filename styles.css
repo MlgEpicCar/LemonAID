@@ -1,0 +1,106 @@
+@media (max-width: 768px) {
+  .title {
+    font-size: 10vw;
+  }
+  .miles {
+    display: inline-block!important;
+    max-width: 100%;
+    text-align: center;
+  }
+  .fit {
+    font-size: 10vw;
+  }
+  .mobile {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  .fit {
+    font-size: 3vw;
+  }
+}
+
+.title {
+    font-family: 'Russo One', sans-serif;
+}
+.lemon_yellow {
+    color: white;
+}
+.lemon_red {
+    color: #E3242B;
+    opacity: .7;
+}
+.nav_color {
+    background-color: #9DC183;
+    opacity: .9;
+}
+.nave {
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+}
+.center {
+  text-align: center;
+}
+.nave_link {
+  margin: 5;
+}
+.site-header {
+    background-color: rgba(0, 0, 0, .85);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+}
+a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.site-header a {
+    color: white;
+    transition: ease-in-out color .15s;
+}
+.container {
+    max-width: 960px;
+}
+.nav_container {
+  max-width: 600px;
+}
+.jumbotron {
+  background-color: #ffd761;
+  /*background-image: url("images/aaaaaaaaaaaa.png");
+  background-size: cover;*/
+}
+.lead {
+  color: white;
+  font-weight: bold;
+}
+.W-0 {
+  background-color: #ffc761;
+}
+.W-1 {
+  background-color: #ffd761;
+}
+.W-2 {
+  background-color: #ffe761;
+}
+.W-3 {
+  background-color: #fff761;
+}
+.W-4 {
+  background-color: #ffff91;
+}
+body {
+  background-color: lemonchiffon;
+}
+a.why:hover {
+  color: white;
+  font-style: italic;
+}
+.website {
+  max-width: 100%;
+  color: #ffc761;
+}
+.btn {
+  background-color: white;
+}

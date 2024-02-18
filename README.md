@@ -1,2 +1,3 @@
 # LemonAID
-a project from sophomore year
+
+what is UP chat
